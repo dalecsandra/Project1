@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace Project1
+namespace Project2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Project 1 Alexandra!");
+            Console.WriteLine("Project 2 Alexandra!" +
+                "home work");
         }
     }
 }
